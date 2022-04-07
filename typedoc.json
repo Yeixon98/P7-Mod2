@@ -1,6 +1,11 @@
 {
   "entryPoints": [
-    "./src/"
+    "./src/factory/factory.ts",
+    "./src/factory/pokemonAguaCreator.ts",
+    "./src/factory/pokemonTierraCreator.ts",
+    "./src/pokemon/pokemonAgua.ts",
+    "./src/pokemon/pokemonTierra.ts",
+    "./src/pokemon/pokemonInterface.ts"
   ],
   "out": "./docs"
 }
